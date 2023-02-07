@@ -617,7 +617,7 @@ strong {
 
 .clients-image {
   display: block;
-  max-width: 100px;
+  max-width: 130px;
   margin: auto;
   transition: all ease 0.2s;
 }
